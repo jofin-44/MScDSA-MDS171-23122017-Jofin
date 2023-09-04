@@ -17,4 +17,4 @@ Email: jofin.siby@msds.christuniversity.in
 |2.|28-08-23|lab02|The name collectors quest|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/main/Lab02.ipynb
 |3.|01-09-23|lab03|The Tale of Number's Harmony|
 https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/0b95e45205a88a8af17ed903256953f00a023eb2/Lab%2003.ipynb
-|4.|04-09-23|lab04|A Taste of Success:The Restaurant Management System|
+|4.|04-09-23|lab04|A Taste of Success:The Restaurant Management System|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin.git
