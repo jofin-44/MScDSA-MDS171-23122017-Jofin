@@ -1,0 +1,8 @@
+
+Name = ramu
+Date = 12/12/12
+Item Code = rice
+Quantity = 3
+Rate = 90
+GuestCount = 5
+==================================================
