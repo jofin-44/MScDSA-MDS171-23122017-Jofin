@@ -20,3 +20,4 @@ https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/48a3ce25db6f0219cb
 |4.|04-09-23|lab04|A Taste of Success:The Restaurant Management System|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/48a3ce25db6f0219cb86f69c5276c51c1b3c8597/Lab%2004.ipynb
 |5.|08-09-23|lab05|Mix and Match Calculator|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/tree/48a3ce25db6f0219cb86f69c5276c51c1b3c8597/Lab05
 |6.|11-09-23|lab06|Vowel Counter!|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/48a3ce25db6f0219cb86f69c5276c51c1b3c8597/lab06.ipynb
+|7.|15-09-23|lab07|My Menu Driven Restaurant|https://github.com/jofin-44/MScDSA-MDS171-23122017-Jofin/blob/92a5c424b3adb3f9400229e1a80d1f5265baefc3/lab07.ipynb
