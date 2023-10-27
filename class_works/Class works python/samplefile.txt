@@ -1,0 +1,3 @@
+This is the first line in the file.
+Using a+ to append and w+ used for writing and if you run again,
+the stuffs you wrote will be replaced
